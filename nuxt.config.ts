@@ -1,3 +1,7 @@
+import { pi } from '~/utils/pi';
+
+console.log(pi)
+
 export default {
   mode: 'universal',
   /*
