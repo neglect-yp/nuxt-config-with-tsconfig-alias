@@ -1,3 +1,4 @@
+import 'tsconfig-paths/register';
 import { pi } from '~/utils/pi';
 
 console.log(pi)
